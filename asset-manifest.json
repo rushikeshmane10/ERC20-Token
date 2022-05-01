@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rushikeshmane10/solidity-project/static/css/main.7007b5cd.css",
+    "main.js": "/rushikeshmane10/solidity-project/static/js/main.83b53011.js",
+    "index.html": "/rushikeshmane10/solidity-project/index.html",
+    "main.7007b5cd.css.map": "/rushikeshmane10/solidity-project/static/css/main.7007b5cd.css.map",
+    "main.83b53011.js.map": "/rushikeshmane10/solidity-project/static/js/main.83b53011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7007b5cd.css",
+    "static/js/main.83b53011.js"
+  ]
+}
